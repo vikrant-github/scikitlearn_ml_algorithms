@@ -1,1 +1,1 @@
-# scikitlearn_ml_algoritms
+# scikitlearn_ml_algorithms
