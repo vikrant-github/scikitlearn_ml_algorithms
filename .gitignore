@@ -131,3 +131,7 @@ dmypy.json
 # Environment
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Ignored Directories
+03_Support_Vector_Machines/test1/
+03_Support_Vector_Machines/train/
